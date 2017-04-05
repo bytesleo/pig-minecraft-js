@@ -2,7 +2,7 @@
 
 Pig minecraft with Treejs.
 
-<img src="https://ibb.co/m24xLa" width="200">
+<img src="https://image.ibb.co/hv98RF/Screenshot_at_2017_04_05_11_09_04.png" width="200">
 
 ## Directory Layout
 
