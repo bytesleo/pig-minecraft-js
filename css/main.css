@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    padding: 0;
+    -webkit-touch-callout: none;
+    /* iOS Safari */
+    -webkit-user-select: none;
+    /* Chrome/Safari/Opera */
+    -khtml-user-select: none;
+    /* Konqueror */
+    -moz-user-select: none;
+    /* Firefox */
+    -ms-user-select: none;
+    /* IE/Edge */
+    user-select: none;
+}
+
+#minecraft {
+    background-image: -webkit-radial-gradient(#54e2d5, #027cb3);
+    background-image: radial-gradient(#54e2d5, #027cb3);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+#minecraft.noBreathe {
+    background-image: -webkit-radial-gradient(#121a48, #3F51B5);
+    background-image: radial-gradient(#121a48, #3F51B5);
+}
+
+#social, #instruccions {
+    position: fixed;
+    bottom: 20px;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-family: monospace;
+    font-size: 15px;
+}
+
+#instruccions {
+    top: 20px;
+}
+
+#instruccions span {
+    color: orange;
+    font-weight: bold;
+}
+
+#instruccions h1 {
+    margin-bottom: 2px;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
