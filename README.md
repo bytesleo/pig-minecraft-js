@@ -14,3 +14,9 @@ Pig minecraft with Treejs.
 │   └── /main.js            # main script
 └── index.html              # main html
 ```
+
+## Directory Layout
+
+Demo online:
+
+[view demo](http://codepen.io/kevoj/pen/gwLXjb)
